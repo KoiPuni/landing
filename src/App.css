@@ -22,7 +22,7 @@
 }
 
 .bg-sky {
-  background-image: url('./sky.png');
+  background-image: url('/sky.png');
   background-size: cover;
 }
 
