@@ -17,8 +17,6 @@ function App() {
 
   return (
     <>
-      {/* <img src="./mountains.png" alt="bg image mountains" className='absolute -z-10 bg-mountain hidden sm:block' />
-      <img src="./mountians-tablet.png" alt="bg image mountains" className='absolute bg-mountain-tablet -z-10 sm:hidden' /> */}
       <div className='mountains-bg'>
         <div className="flex xl:px-24 lg:px-24 md:px-10 sm:px-10 px-6 justify-center sm:justify-between xl:pt-12 lg:pt-12 md:pt-6 sm:pt-6 pt-4">
           <div className="flex">
@@ -31,15 +29,14 @@ function App() {
           <a href='#contact' className='mr-6 self-center text-xl font-bold hidden sm:block'>Contact Us</a>
         </div>
 
-        <div className='m-auto xl:pb-80 lg:py-32 md:py-24 pt-12 pb-64 w-3/4  flex flex-col justify-center'>
+        <div className='m-auto h-screen lg:py-32 md:py-24 pt-12 w-3/4 flex flex-col justify-start'>
           <h1 className='break-normal text-6xl text-center font-bold transition-all mb-4' onMouseEnter={changeState}>We <span className={`${animateMirror && 'animate-mirror'} transition-all inline-block`}>build</span> <span className={`${animateMirror && 'animate-mirror'} transition-all inline-block`}>cool </span><span className='underline decoration-wavy decoration-transparent animate-web-underline'> web Apps</span></h1>
           <p className='text-center'>We are a US based company dedicated to giving life to your App ideas and designs</p>
           <a href='#contact' className='my-12 w-fit text-2xl font-bold self-center py-4 px-8 rounded-full bg-gradient-to-l to-emerald-200 from-emerald-300'>Get in touch</a>
-          <img src="./arrow-down.png" alt="arrow down" className='w-16 self-center cursor-pointer' />
         </div>
       </div>
 
-      <div className='mt-96 relative flex sm:flex-row flex-col w-3/5 m-auto'>
+      <div className='mt-12 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <div className='flex flex-col justify-center'>
           <div className='font-bold text-4xl'>Design UI/UX & Development of custom Apps</div>
           <div>
@@ -49,10 +46,10 @@ function App() {
         <img className='self-center' src="./beam-web-design-program-on-laptop-screen.gif" alt="" />
       </div>
 
-      <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto'>
+      <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <img className='w-64 sm:mr-12 sm:block hidden' src="./isometric-server.gif" alt="" />
         <div className='flex flex-col justify-center'>
-          <div className='font-bold text-4xl'>Impelemtation on Server and DNS management</div>
+          <div className='font-bold text-4xl'>Implementation on Server and DNS management</div>
           <div>
             We upload your Web App to reliables servers and we get in charge of the management and configuration of server and DNS to ensure a constant presence without interruptions
           </div>
@@ -60,7 +57,7 @@ function App() {
         <img className='w-44 sm:mr-24 sm:hidden block self-center mt-8 sm:mt-0' src="./isometric-server.gif" alt="" />
       </div>
 
-      <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto'>
+      <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <div className='flex flex-col justify-center'>
           <div className='font-bold text-4xl'>SEO and Maintenance</div>
           <div>
