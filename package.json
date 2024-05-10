@@ -2,10 +2,10 @@
   "name": "ai-web-landing-by-terry-m",
   "private": true,
   "version": "0.0.0",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "tsc && vite build && pm2 start ecosystem.config.js --env production",
+    "build": "tsc && vite build && pm2 start ecosystem.config.cjs --env production",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
