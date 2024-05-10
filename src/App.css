@@ -26,6 +26,11 @@
   background-size: cover;
 }
 
+.mountains-bg {
+  background-image: url('/mountains.png');
+  background-size: cover;
+}
+
 body,
 html {
   overflow-x: hidden;

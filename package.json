@@ -1,8 +1,8 @@
 {
-  "name": "ai-web-landing-by-terry-m",
+  "name": "koipunicode-landing-page",
   "private": true,
   "version": "0.0.0",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc && vite build && pm2 start ecosystem.config.js --env production",
