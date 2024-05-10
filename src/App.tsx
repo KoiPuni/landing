@@ -87,7 +87,7 @@ function App() {
         </div>
       </div>
 
-      <div className="flex pt-8 pb-6 px-4 md:pb-6 md:px-24 justify-between">
+      <div className="flex pt-6 pb-6 px-4 md:pb-6 md:px-24 justify-between">
         <div className="flex">
           <img src="./logo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
           <div className='flex flex-col justify-center'>
