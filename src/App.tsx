@@ -38,7 +38,7 @@ function App() {
 
       <div className='mt-12 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <div className='flex flex-col justify-center'>
-          <div className='font-bold text-4xl'>Design UI/UX & Development of custom Apps</div>
+          <div className='font-bold text-4xl mb-4'>Design UI/UX & Development of custom Apps</div>
           <div>
             Multiple design proposals, transformation of your ideas into real dinamic and functional Web Apps
           </div>
@@ -49,7 +49,7 @@ function App() {
       <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <img className='w-64 sm:mr-12 sm:block hidden' src="./isometric-server.gif" alt="" />
         <div className='flex flex-col justify-center'>
-          <div className='font-bold text-4xl'>Implementation on Server and DNS management</div>
+          <div className='font-bold text-4xl mb-4'>Implementation on Server and DNS management</div>
           <div>
             We upload your Web App to reliables servers and we get in charge of the management and configuration of server and DNS to ensure a constant presence without interruptions
           </div>
@@ -59,7 +59,7 @@ function App() {
 
       <div className='mt-44 relative flex sm:flex-row flex-col w-3/5 m-auto justify-center'>
         <div className='flex flex-col justify-center'>
-          <div className='font-bold text-4xl'>SEO and Maintenance</div>
+          <div className='font-bold text-4xl mb-4'>SEO and Maintenance</div>
           <div>
             We enhance your visibility online with SEO strategies and periodically mantain your website to guarantee up-to-date information and a correct functionality
           </div>
@@ -70,13 +70,13 @@ function App() {
       <div className='bg-sky pt-52 xl:mt-52 relative flex justify-end flex-col md:flex-row m-auto' id='contact'>
         <img className='w-96 h-56 md:-scale-x-100 self-center md:self-start' src="./santi.gif" alt="" />
         <div className='flex lg:w-1/2 flex-col justify-center mx-12 sm:mr-12'>
-          <div className='font-bold text-4xl'>Who are we?</div>
+          <div className='font-bold text-4xl mb-4'>Who are we?</div>
           <div className=''>
             At KoiPuniCode, we are passionate creators, innovators, and problem solvers dedicated to crafting exceptional web experiences. With a deep understanding of technology and a commitment to excellence, we specialize in building custom web applications tailored to meet the unique needs of our clients
             <div className='my-12 flex items-center justify-center sm:justify-start'>
               <div className='w-fit flex flex-col sm:flex-row items-center text-2xl font-bold self-center py-4 px-8 rounded bg-gradient-to-l to-emerald-300 from-emerald-500'>
-                Contact us by
-                <div className='flex'>
+                Contact us via
+                <div className='flex items-center'>
                   <a target="_blank" className='mx-2' href="https://api.whatsapp.com/send?phone=542984400833&text=Hi! I have the following inquiry ..."><img src="./3d-fluency-whatsapp-logo.png" alt="whatsapp logo" className='w-12 h-12' /></a>
                   or
                   <a target="_blank" className='mx-2' href="mailto: hello@koipunicode.com?subject=I have an inquiry  &body=Hi! My name is ... and I have the following inquiry ..."><img src="./3d-fluency-gmail-logo.png" alt="gmail logo" className='w-12 h-12' /></a>
@@ -87,7 +87,7 @@ function App() {
         </div>
       </div>
 
-      <div className="flex pt-8 pb-6 px-4 md:pb-6 md:px-24 justify-between">
+      <div className="flex pt-6 pb-6 px-4 md:pb-6 md:px-24 justify-between">
         <div className="flex">
           <img src="./KoiPuni_Isologo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
           <div className='flex flex-col justify-center'>
