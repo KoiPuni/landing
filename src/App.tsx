@@ -20,7 +20,7 @@ function App() {
       <div className='mountains-bg'>
         <div className="flex xl:px-24 lg:px-24 md:px-10 sm:px-10 px-6 justify-center sm:justify-between xl:pt-12 lg:pt-12 md:pt-6 sm:pt-6 pt-4">
           <div className="flex">
-            <img src="./logo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
+            <img src="./KoiPuni_Isologo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
             <div className='flex flex-col justify-center'>
               <div className='text-lg font-bold'>KoiPuni Code</div>
               <div>apps with impact!</div>
@@ -89,7 +89,7 @@ function App() {
 
       <div className="flex pt-8 pb-6 px-4 md:pb-6 md:px-24 justify-between">
         <div className="flex">
-          <img src="./logo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
+          <img src="./KoiPuni_Isologo.png" alt="logo circle with s inside" className='w-12 h-12 self-center mx-2' />
           <div className='flex flex-col justify-center'>
             <div className='text-sm font-bold'>KoiPuni Code</div>
           </div>
