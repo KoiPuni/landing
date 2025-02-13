@@ -238,7 +238,7 @@ function App() {
               <div className="grid md:grid-cols-3 gap-12">
                 {/* Design Service */}
                 <div className="bg-gradient-to-br from-white to-emerald-50 rounded-xl p-8 shadow-lg hover:shadow-2xl transition-all border border-emerald-100">
-                  <img className='w-32 h-32 mx-auto mb-6' src="./beam-web-design-program-on-laptop-screen.gif" alt="Web Design" />
+                  <img className='w-32 object-contain h-32 mx-auto mb-6' src="./beam-web-design-program-on-laptop-screen.gif" alt="Web Design" />
                   <h3 className='font-bold text-2xl mb-4 bg-gradient-to-r from-emerald-600 to-emerald-800 bg-clip-text text-transparent'>{t('services.design.title')}</h3>
                   <p className="text-gray-700">
                     {t('services.design.description')}
@@ -247,7 +247,7 @@ function App() {
 
                 {/* Server Service */}
                 <div className="bg-gradient-to-br from-white to-emerald-50 rounded-xl p-8 shadow-lg hover:shadow-2xl transition-all border border-emerald-100">
-                  <img className='w-32 h-32 mx-auto mb-6' src="./isometric-server.gif" alt="Server Solutions" />
+                  <img className='w-32 object-contain h-32 mx-auto mb-6' src="./isometric-server.gif" alt="Server Solutions" />
                   <h3 className='font-bold text-2xl mb-4 bg-gradient-to-r from-emerald-600 to-emerald-800 bg-clip-text text-transparent'>{t('services.server.title')}</h3>
                   <p className="text-gray-700">
                     {t('services.server.description')}
@@ -256,7 +256,7 @@ function App() {
 
                 {/* SEO Service */}
                 <div className="bg-gradient-to-br from-white to-emerald-50 rounded-xl p-8 shadow-lg hover:shadow-2xl transition-all border border-emerald-100">
-                  <img className='w-32 h-32 mx-auto mb-6' src="./dazzle-seo-website-optimization.gif" alt="SEO Optimization" />
+                  <img className='w-32 object-contain h-32 mx-auto mb-6' src="./dazzle-seo-website-optimization.gif" alt="SEO Optimization" />
                   <h3 className='font-bold text-2xl mb-4 bg-gradient-to-r from-emerald-600 to-emerald-800 bg-clip-text text-transparent'>{t('services.seo.title')}</h3>
                   <p className="text-gray-700">
                     {t('services.seo.description')}
