@@ -52,7 +52,7 @@ function App() {
     e.preventDefault();
     setIsSubmitting(true); // Start loading
     try {
-      const response = await fetch('http://localhost:3000/api/submit-message', {
+      const response = await fetch('https://koipunicode.com/api/submit-message', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
