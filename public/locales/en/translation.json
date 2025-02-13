@@ -1,0 +1,94 @@
+{
+  "header": {
+    "slogan": "Apps with impact!",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "we": "We",
+    "build": "build",
+    "cool": "cool",
+    "webApps": "web Apps",
+    "description": "We are a StartUp dedicated to giving life to your App ideas and designs",
+    "getInTouch": "Get in touch"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "comingSoon": "Coming Soon",
+    "medritte": {
+      "title": "MeDritte (Coming Soon)",
+      "description": "An upcoming comprehensive medical records management system that will enable healthcare providers to seamlessly track patient histories, treatments, and outcomes in real-time.",
+      "tech": {
+        "next": "NextJS",
+        "nest": "NestJS",
+        "postgres": "PostgreSQL"
+      }
+    },
+    "koi3dsync": {
+      "title": "Koi3DSync (Coming Soon)",
+      "description": "An upcoming revolutionary 3D environment platform that will enable real-time collaboration, allowing teams to communicate seamlessly.",
+      "tech": {
+        "threejs": "Three.js",
+        "react": "React",
+        "websocket": "WebSocket"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "design": {
+      "title": "Web Design",
+      "description": "Creating beautiful, responsive, and user-friendly web interfaces that make your brand stand out."
+    },
+    "server": {
+      "title": "Server Solutions",
+      "description": "Building robust and scalable backend systems that power your applications reliably."
+    },
+    "seo": {
+      "title": "SEO Optimization",
+      "description": "Improving your website's visibility and ranking in search engines to reach more customers."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "We are a passionate team of developers and designers dedicated to creating exceptional digital experiences. With years of experience in web development, we bring creativity and technical expertise to every project.",
+    "description2": "Our mission is to help businesses thrive in the digital world by delivering innovative, user-friendly, and high-performing web solutions that make a real impact.",
+    "values": {
+      "title": "Our Values",
+      "innovation": "Innovation in every line of code",
+      "quality": "Quality-driven development",
+      "userCentric": "User-centered design approach"
+    }
+  },
+  "footer": {
+    "rights": "KoiPuni Code - 2025 All rights reserved",
+    "legal": "Legal",
+    "operations": "Operations",
+    "global": "Global"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "thankYou": "Thank you for your message!",
+    "submitting": "Submitting...",
+    "whatsapp": "Chat on WhatsApp",
+    "reachWhatsapp": "Reach us on WhatsApp",
+    "alreadySubmitted": "We've received your message and will get back to you soon."
+  },
+  "testimonials": {
+    "title": "Our Clients",
+    "subtitle": "Working together to bring ideas to life",
+    "laura": {
+      "name": "Laura Margarita Portillo",
+      "role": "Healthcare Professional",
+      "text": "Working with KoiPuni Code on my medical practice management system has been a great experience. Their understanding of healthcare workflows and attention to detail is exactly what I was looking for."
+    },
+    "estefania": {
+      "name": "Estefania Tatiana Stange Rojas",
+      "role": "Technical Documentation Specialist",
+      "text": "KoiPuni Code is developing a documentation system that perfectly aligns with my workflow needs. Their collaborative approach and technical expertise make them an excellent development partner."
+    }
+  }
+} 

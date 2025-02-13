@@ -1,0 +1,94 @@
+{
+  "header": {
+    "slogan": "¡Apps con impacto!",
+    "contactUs": "Contáctanos"
+  },
+  "hero": {
+    "we": "Nosotros",
+    "build": "creamos",
+    "cool": "potentes",
+    "webApps": "soluciones web",
+    "description": "Somos una StartUp dedicada a dar vida a tus ideas y diseños de Apps",
+    "getInTouch": "Contáctanos"
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "comingSoon": "Próximamente",
+    "medritte": {
+      "title": "MeDritte (Próximamente)",
+      "description": "Un próximo sistema integral de gestión de registros médicos que permitirá a los proveedores de salud realizar un seguimiento continuo de historiales, tratamientos y resultados de pacientes en tiempo real.",
+      "tech": {
+        "next": "NextJS",
+        "nest": "NestJS",
+        "postgres": "PostgreSQL"
+      }
+    },
+    "koi3dsync": {
+      "title": "Koi3DSync (Próximamente)",
+      "description": "Una próxima plataforma revolucionaria de entornos 3D que permitirá la colaboración en tiempo real, permitiendo a los equipos una comunicación fluida.",
+      "tech": {
+        "threejs": "Three.js",
+        "react": "React",
+        "websocket": "WebSocket"
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "design": {
+      "title": "Diseño Web",
+      "description": "Creamos interfaces web hermosas, responsivas y amigables que hacen destacar tu marca."
+    },
+    "server": {
+      "title": "Soluciones de Servidor",
+      "description": "Construimos sistemas backend robustos y escalables que impulsan tus aplicaciones de manera confiable."
+    },
+    "seo": {
+      "title": "Optimización SEO",
+      "description": "Mejoramos la visibilidad y el ranking de tu sitio web en los motores de búsqueda para alcanzar más clientes."
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description1": "Somos un equipo apasionado de desarrolladores y diseñadores dedicados a crear experiencias digitales excepcionales. Con años de experiencia en desarrollo web, aportamos creatividad y experiencia técnica a cada proyecto.",
+    "description2": "Nuestra misión es ayudar a las empresas a prosperar en el mundo digital mediante la entrega de soluciones web innovadoras, fáciles de usar y de alto rendimiento que generen un impacto real.",
+    "values": {
+      "title": "Nuestros Valores",
+      "innovation": "Innovación en cada línea de código",
+      "quality": "Desarrollo orientado a la calidad",
+      "userCentric": "Enfoque de diseño centrado en el usuario"
+    }
+  },
+  "footer": {
+    "rights": "KoiPuni Code - 2025 Todos los derechos reservados",
+    "legal": "Legal",
+    "operations": "Operaciones",
+    "global": "Global"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "submit": "Enviar Mensaje",
+    "thankYou": "¡Gracias por tu mensaje!",
+    "whatsapp": "Chatear por WhatsApp",
+    "reachWhatsapp": "Contáctanos por WhatsApp",
+    "alreadySubmitted": "Hemos recibido tu mensaje y nos pondremos en contacto contigo pronto.",
+    "submitting": "Enviando..."
+  },
+  "testimonials": {
+    "title": "Nuestros Clientes",
+    "subtitle": "Trabajando juntos para dar vida a las ideas",
+    "laura": {
+      "name": "Laura Margarita Portillo",
+      "role": "Profesional de la Salud",
+      "text": "Trabajar con KoiPuni Code en mi sistema de gestión de práctica médica ha sido una gran experiencia. Su comprensión de los flujos de trabajo sanitarios y atención al detalle es exactamente lo que estaba buscando."
+    },
+    "estefania": {
+      "name": "Estefania Tatiana Stange Rojas",
+      "role": "Especialista en Documentación Técnica",
+      "text": "KoiPuni Code está desarrollando un sistema de documentación que se alinea perfectamente con mis necesidades de flujo de trabajo. Su enfoque colaborativo y experiencia técnica los hace un excelente socio de desarrollo."
+    }
+  }
+} 
